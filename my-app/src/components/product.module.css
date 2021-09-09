@@ -1,0 +1,11 @@
+.card {
+  margin: 18px 0;
+  padding: 24px;
+  background: #eee;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.icon path {
+  fill: slategray;
+}
